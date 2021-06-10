@@ -1,3 +1,3 @@
 FROM alpine:latest
 
-RUN echo "hello world!"
+RUN echo "hello world"
